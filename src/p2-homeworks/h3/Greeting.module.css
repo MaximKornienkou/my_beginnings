@@ -1,0 +1,15 @@
+.someClass {
+
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.valid {
+    border: 2px solid green;
+}
+
+.totalUsers {
+    margin-left: 10px;
+}
